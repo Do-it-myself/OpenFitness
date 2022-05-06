@@ -9,4 +9,4 @@ OpenFitness is an app that combines a search filter for sports venues in Hong Ko
 
 ## Technologies
 
-The app was built entirely using React Native. The UI was designed in Figma: https://www.figma.com/file/CYGxL0SZBX1gWjM6VxKe97/hackUST-UI?node-id=210%3A124
+The app was built entirely using React Native. The UI was designed in Figma
